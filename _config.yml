@@ -1,5 +1,5 @@
 #page title
-page_title                                : Matchpulse
+page_title                                : MatchPulse
 
 # App Info
 ios_app_id                                : 6744074075
@@ -68,10 +68,6 @@ features                                  :
   - title                                 : Echtzeit-Updates
     description                           : Sofortige Aktualisierungen für Spielstände und Ereignisse.
     fontawesome_icon_name                 : bolt
-
-  - title                                 : Offline-Funktionalität
-    description                           : Zugriff auf gespeicherte Daten auch ohne Internetverbindung.
-    fontawesome_icon_name                 : wifi
 
 # Theme Settings
 topbar_color                              : "#000000"
